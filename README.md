@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qkbm4jGMam7PfdWzHM/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Qkbm4jGMam7PfdWzHM/giphy.gif" width="200"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jacob-mcardle-0a0257211/">
