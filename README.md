@@ -1,7 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qkbm4jGMam7PfdWzHM/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jacob-mcardle-0a0257211/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=jakemca01&label=Profile%20views&color=0e75b6&style=flat" alt="jakemca01" /> </p>
+
 <h1 align="center">Hi 👋, I'm Jacob McArdle</h1>
 <h3 align="center">A developer from Ireland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakemca01&label=Profile%20views&color=0e75b6&style=flat" alt="jakemca01" /> </p>
 
 - 🔭 I’m currently working as a Data Engineer in Insurance.
 
